@@ -1,0 +1,11 @@
+git init
+git config --global user.name "alicesobrall"
+git config --global user.email "00001093667576sp@al.educacao.sp.gov.br"
+git branch -M main
+gi remote add origin https://github.com/alicesobrall/rep-nuvem-alice.git
+git pull origin main
+
+senha do github: sobral20081705
+
+
+
