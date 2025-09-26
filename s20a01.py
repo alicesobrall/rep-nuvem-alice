@@ -22,10 +22,7 @@ while True:
         except ValueError as e:
             print(e)
     continuar = input("Deseja continuar calculando?[sim,nao]: ").strip().lower()
-<<<<<<< HEAD:s19a01.py
     if continuar != 'nao':
         break
-=======
     if continuar != 'sim':
         break
->>>>>>> e2a1ceeb3e412966014fdda29ba33ca8948ff52e:s20a01.py
