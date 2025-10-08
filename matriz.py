@@ -13,4 +13,9 @@ def exibir(matriz):
             print(matriz[linha] [coluna], end = ' ')
         print( )
         
-exibir(matriz)
+#exibir(matriz)
+
+matriz2 = [['X' for _ in range(3)] for _ in range(3)]
+
+exibir(matriz2)
+
